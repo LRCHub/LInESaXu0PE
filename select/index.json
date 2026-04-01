@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Wiege (VIVINOS - ALNST Ivan Remix)",
+  "base_artist": "PARK BYEONG HOON",
+  "createdAt": "2026-04-01T04:03:35.571595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Original Soundtrack Part.9) (Paused)",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/01_Wiege_(VIVINOS_-_ALNST_Original_Soundtrack_Part.9)_(Paused)_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Original Soundtrack Part.9)",
+      "artist": "BL8M",
+      "has_synced": true,
+      "path": "select/02_Wiege_(VIVINOS_-_ALNST_Original_Soundtrack_Part.9)_BL8M.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Original Soundtrack Part.9)",
+      "artist": "BL8M, 6FU;",
+      "has_synced": true,
+      "path": "select/03_Wiege_(VIVINOS_-_ALNST_Original_Soundtrack_Part.9)_BL8M,_6FU;.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Ivan Remix)",
+      "artist": "Park Byeonghoon",
+      "has_synced": false,
+      "path": "select/04_Wiege_(VIVINOS_-_ALNST_Ivan_Remix)_Park_Byeonghoon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Ivan Remix)",
+      "artist": "PARK BYEONG HOON",
+      "has_synced": true,
+      "path": "select/05_Wiege_(VIVINOS_-_ALNST_Ivan_Remix)_PARK_BYEONG_HOON.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Original Soundtrack Part.9)",
+      "artist": "BL8M/6FU;",
+      "has_synced": true,
+      "path": "select/06_Wiege_(VIVINOS_-_ALNST_Original_Soundtrack_Part.9)_BL8M_6FU;.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Original Soundtrack Part.9)",
+      "artist": "6FU;",
+      "has_synced": true,
+      "path": "select/07_Wiege_(VIVINOS_-_ALNST_Original_Soundtrack_Part.9)_6FU;.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wiege (VIVINOS - ALNST Original Soundtrack Part.9)",
+      "artist": "BL8M & 6FU;",
+      "has_synced": true,
+      "path": "select/08_Wiege_(VIVINOS_-_ALNST_Original_Soundtrack_Part.9)_BL8M_&_6FU;.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Von der Wiege bis ins Grab",
+      "artist": "Samra",
+      "has_synced": true,
+      "path": "select/09_Von_der_Wiege_bis_ins_Grab_Samra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "VON DER WIEGE BIS ZUR BAR",
+      "artist": "FREI.WILD",
+      "has_synced": true,
+      "path": "select/10_VON_DER_WIEGE_BIS_ZUR_BAR_FREI.WILD.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Von der Wiege bis zum Grabe",
+      "artist": "Hämatom",
+      "has_synced": false,
+      "path": "select/11_Von_der_Wiege_bis_zum_Grabe_Hämatom.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Meine Wiege",
+      "artist": "Das Ich",
+      "has_synced": true,
+      "path": "select/12_Meine_Wiege_Das_Ich.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Meine Wiege (Asche Remix)",
+      "artist": "Das Ich",
+      "has_synced": false,
+      "path": "select/13_Meine_Wiege_(Asche_Remix)_Das_Ich.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "wiege",
+      "artist": "bl8m 6fu",
+      "has_synced": true,
+      "path": "select/14_wiege_bl8m_6fu.lrc"
+    }
+  ]
+}
